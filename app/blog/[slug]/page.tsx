@@ -29,7 +29,7 @@ export default async function BlogArticle({
         <div className="mt-7">
             <h1>
                 <span className="block text-base text-center text-primary font-semibold tracking-wide">
-                    DevDazzle - Blog
+                    My Blog
                 </span>
                 <span className="mt-2 block text-3xl text-center leading-8 font-bold tracking-light sm:text-4xl">
                     {data.title}

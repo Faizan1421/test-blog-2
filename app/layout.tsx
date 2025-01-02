@@ -9,8 +9,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "DevDazzle | Tech Blogs by 0xgauravv",
-  description: "DevDazzle is a technical blog built using NextJS, Tailwind CSS & Sanity CMS",
+  title: "Blogs | Tech Blogs by 0xgauravv",
+  description: "My Blogs is a technical blog built using NextJS, Tailwind CSS & Sanity CMS",
 };
 
 export default function RootLayout({
