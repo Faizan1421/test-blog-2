@@ -31,6 +31,9 @@ export default function RootLayout({
           <main className="max-w-2xl mx-auto px-4">
             {children}
           </main>
+          <footer className="text-center py-4">
+            <a href="https://github.com/" target="_blank" rel="noreferrer">Made with ❤️ by Ishmal</a>
+          </footer>
         </ThemeProvider>
       </body>
     </html>
