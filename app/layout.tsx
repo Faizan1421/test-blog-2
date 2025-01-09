@@ -32,7 +32,7 @@ export default function RootLayout({
             {children}
           </main>
           <footer className="text-center py-4">
-            <a href="https://github.com/" target="_blank" rel="noreferrer">Made with ❤️ by Ishmal</a>
+            <a href="https://github.com/" target="_blank" rel="noreferrer">Made with ❤️ by Faizan Tayyab Hussain</a>
           </footer>
         </ThemeProvider>
       </body>
